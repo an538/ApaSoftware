@@ -1,0 +1,257 @@
+
+*{margin: 0; padding: 0;}
+body
+{
+      background-size: 100% 100%;
+      background-attachment: fixed;
+      background-size: 70%;
+      animation: movimiento 10s infinite linear alternate;
+}
+header
+{
+      width: 100%;
+      overflow: hidden;
+      background: #708090;
+      margin-bottom: 20px;
+      opacity: 80%;
+}
+.wrapper
+{
+      width: 90%;
+      max-width: 1200px;
+      margin-left: 30px;
+      overflow: hidden;
+}
+.fondo
+{
+      color: #F2F2F2;
+      font-size: 50px;
+      line-height: 200px;
+      float: left;
+}
+nav a{
+      text-decoration:none;
+      color:inherit;
+      font-size:20px;
+      font-family: Arial;
+      color: #000;
+      }
+            
+nav li{
+      display:inline-block;
+      width:150px;
+      height:30px;
+      padding:5px 10px;
+      background-color:#708090;
+      border:1px solid #708090;
+      text-align:center;
+      color:#fff;
+      position:relative;
+      border-radius: 10px;
+}
+            
+nav li:hover{
+      background-color:#fff;
+      color:#000;
+      }
+            
+nav li>ul{
+      display:none;
+      }
+
+nav li:hover>ul{
+      display:block;
+      position:absolute;
+      top:30px;
+      left:0px;
+}
+nav{
+      margin-left: 120px;
+      margin-top: 80px;
+      margin-bottom: -80px;
+
+}
+.s1{
+      margin-left: 150px;
+
+}
+
+h1
+{
+      color: #FFFFFF;
+}
+
+@keyframes movimiento{
+      from{
+            background-position: bottom left;
+      }to{
+            background-position: top right;
+      }
+}
+.logo2{
+      width: 300px;
+      height: 300px;
+      margin-top: -310px;
+      margin-bottom: 25%;
+      margin-left:-15PX; 
+      position: absolute;
+}
+      nav{
+            height: 230px;
+      }
+      .social {
+      position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+      left: 0; /* Establecemos la barra en la izquierda */
+      top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+      z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+      .social ul {
+            list-style: none;
+      }
+      .social ul li a {
+            display: inline-block;
+            color:#fff;
+            background: #000;
+            padding: 10px 15px;
+            text-decoration: none;
+            -webkit-transition:all 500ms ease;
+            -o-transition:all 500ms ease;
+            transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+            width: 40px;
+            height: 50px;
+      }
+      .social ul li .icon-facebook {background:#3b5998;} /* Establecemos los colores de cada red social, aprovechando su class */
+      .social ul li .icon-twitter {background: #00abf0;} 
+      .social ul li .icon-twitter {margin-top: 30px;}
+      .social ul li .icon-whatsapp {background: #33FF4F;}
+      .social ul li .icon-instagram {background: #BA55D3;}
+      .social ul li .icon {background: #C7BEBE;}
+      .social ul li .icon-mail {background: #FF3333;}
+      .social ul li a:hover {
+            background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+            padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+      }
+   
+      .facebook
+      {
+            width: 100%;
+            padding-left: 0%;
+            padding-top: 5px;
+      }
+      .twitter
+      {
+            width: 100%;
+            padding-left: 0%;
+            padding-top: 5px; 
+      }
+      .WhatsApp
+      {
+            width: 100%;
+            padding-left: 0%;
+            padding-top: 5px;   
+      }
+       .instagram
+      {
+            width: 100%;
+            padding-left: 0%;
+            padding-top: 5px;   
+      }
+      .nos{
+      	    margin-top: 50px;
+         
+      }
+      .ser{
+            margin-left: -30px;
+      }
+      .port{
+            margin-left: -30px;
+      }
+      .clie{
+            margin-left: -30px;
+      }
+      .contac{
+            position: absolute;
+            margin-left: -20px;
+            margin-top: 50px;
+      }
+      .par1{
+      	font-size: 40px;
+      	text-align: center;
+      	font-family: Arial Black;
+      }
+      .par2{
+      	text-align: center;
+      	font-family: Arial;
+      	font-size: 20px;
+      }
+      
+      .imgp{
+      	height: 300px;
+      	margin-left: auto;
+      	margin-right: auto;
+      	display: block;
+      	opacity: 95%;
+      	border-color: BLACK;
+      	border-width: 10px;
+      	border-style: solid;
+      }
+      footer{
+      background-color: #708090;
+      margin-top: 150px;
+      opacity: 90%;
+      height: 300px;
+}
+.ubicacionimg {
+      width: 110px;
+ padding-left: 500px;
+
+
+}
+.horario {
+ width: 80px;
+ padding-left: 15px;
+}
+.telefono{
+       width: 70px;
+       padding-left: 20px;
+}
+.infor{
+      text-align: center;
+      font-family: Arial;
+      font-size: 22px;
+      padding-top: 10px;
+}
+ .ubi{      color: BLACK;
+            text-align: center;
+            font-family: Arial;
+            position: absolute;
+            float: left;
+            margin-left: -350px;
+            padding-top: 90px;
+      }
+      .hora{
+            text-align: center;
+            font-family: Arial;
+            padding-top: 10px;
+      }
+      .tel{
+            text-align: center;
+            font-family: Arial;
+            padding-top: 10px;
+            padding-left:360px;
+            color: BLACK;
+            display: block;
+            margin-top: -100px;
+
+            
+      }
+      .cel{
+            text-align: center;
+            font-family: Arial;
+            padding-left:360px;
+            color: BLACK;
+            display: block;
+      }
+      .ancla{
+            color: BLACK;
+      }

@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="Classify">
+<head>
+    <script>window.mrf={host:"bc.marfeel.com",dt:1},function(e,t,o,a,i,n,r){function s(){l&&(e.cookie="fromt=yes;path=/;expires="+new Date(Date.now()+18e5).toGMTString(),o.reload())}var l=!/marfeelgarda=no|fromt=yes/i.test(n+";"+i);if((/(ipad.*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(a)&&2&r.dt||/(ip(hone|od).*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(a)&&1&r.dt||/marfeelgarda=off/i.test(n))&&t===t.top){l&&e.write('<plaintext style="display:none">');var m="script",d=setTimeout(s,1e4),c=e.createElement(m),f=e.getElementsByTagName(m)[0];c.src="https://"+t.mrf.host+"/statics/marfeel/gardac.js",c.onerror=s,c.onload=function(){clearTimeout(d)},f.parentNode.insertBefore(c,f)}else{var p=o.pathname.split("/"),m=e.createElement("script");m.src="https://"+t.mrf.host+"/"+o.hostname+(r.multi&&p.length>1&&p[1].length?"/"+p[1]:"")+"/main.d.js",m.async=!0,e.head.appendChild(m)}}(document,window,location,navigator.userAgent,document.cookie,location.search,window.mrf);</script>
+    <title>¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme? -  ElSol.com.ar - Diario de Mendoza, Argentina - El Sol Online</title>
+
+    <meta property="fb:pages" content="106994085114"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.elsol.com.ar/cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme"/>
+    <meta property="og:site_name" content="El Sol"/>
+    <meta property="og:title" content="¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?"/>
+
+    <meta property="og:image" content="https://elsol-compress.s3-accelerate.amazonaws.com/files/1544628006167Captura%20de%20pantalla%202018-12-12%20a%20la(s)%2012.19.35.jpg"/>
+    <meta property="og:image:width" content="493"/>
+    <meta property="og:image:height" content="327"/>
+    <meta property="og:description" content="En la actualidad es casi imposible pensar en negocios sin incluir a las nuevas tecnologías."/>
+    <meta property="fb:app_id" content="170185563535464"/>
+
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@elsolonline"/>
+    <meta name="twitter:title" content="¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?"/>
+    <meta name="twitter:description" content="En la actualidad es casi imposible pensar en negocios sin incluir a las nuevas tecnologías."/>
+    <meta name="twitter:image" content="https://elsol-compress.s3-accelerate.amazonaws.com/files/1544628006167Captura%20de%20pantalla%202018-12-12%20a%20la(s)%2012.19.35.jpg"/>
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="/images/favicon-192x192.png">
+    <meta name="apple-mobile-web-app-title" content="El Sol">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" href="/images/favicon-192x192.png">
+    <link rel="manifest" href="/manifest.json">
+
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+
+    <meta name="msapplication-TileImage" content="/images/favicon.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="generator" content="Dictioz® (1.0)"/>
+    <meta name="city" content="Mendoza"/>
+    <meta name="country" content="Argentina"/>
+    <meta name="geo.region" content="AR-M"/>
+    <meta name="geo.placename" content="Mendoza"/>
+    <meta name="distribution" content="global"/>
+    <meta name="language" content="es_ES"/>
+    <meta name="author" content="https://www.elsol.com.ar"/>
+    <meta name="robots" content="index,follow"/>
+    <meta name="googlebot" content="all"/>
+    <meta name="rating" content="general"/>
+    <meta name="google" content="true"/>
+    <meta name="verify" content="true"/>
+
+    <meta name="keywords" content="">
+    <meta name="description" content="En la actualidad es casi imposible pensar en negocios sin incluir a las nuevas tecnologías.">
+    <link rel="amphtml" href="https://www.elsol.com.ar/cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme/amp">
+    <link rel="canonical" href="https://www.elsol.com.ar/cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme"/>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+
+    <!-- Material icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,700i,800">
+    <link rel="stylesheet" type="text/css" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+    <link rel="stylesheet" href="/css/style-37319b7367.css"/>
+
+    <script>
+        var globals = {
+            env: {
+                http: 'https://www.elsol.com.ar',
+                api: 'https://www.elsol.com.ar/api'
+            },
+            note: '5c1125b0c51ecc2b5bb2b875',
+            category: '59ce41c2e101583a8815fa1e',
+            tagUrl: ''
+        };
+
+        function parseTagURL(url){
+            if(!url|| url.length === 0 ) {
+                return '';
+            }
+            url = url.toLowerCase().trim();
+            url = url.replace('/', '');
+            return url;
+        }
+
+        var seccion = parseTagURL('/empresas');
+
+        console.log(seccion);
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "NewsArticle",
+            "url": "https://www.elsol.com.ar/cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme",
+            "author": {
+                "@type": "Person",
+                "givenName": "El Sol",
+                "name": "El Sol"
+            },
+            "name": "ElSol.com.ar - Diario de Mendoza, Argentina - El Sol Online",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://elsol-compress.s3-accelerate.amazonaws.com/files/1544628006167Captura%20de%20pantalla%202018-12-12%20a%20la(s)%2012.19.35.jpg",
+                "height": "270",
+                "width": "480"
+            },
+            "articleBody": "&lt;p&gt;El mundo ha cambiado rotundamente en los &amp;uacute;ltimos 10 a&amp;ntilde;os y con ello, nuestra forma de vivir. Desde el GPS incorporado a los autom&amp;oacute;viles, aplicaciones en nuestros celulares que permiten desde controlar qu&amp;eacute; est&amp;aacute; haciendo la ni&amp;ntilde;era, pagar los impuestos o imprimirte una credencial provisoria de tu prepaga. Hasta, ortodoncia invisible (e indolora), sin l&amp;iacute;mite de edad mediante impresoras 3D.&lt;br &#x2F;&gt;&amp;nbsp;&lt;br &#x2F;&gt;Todo ello coloca a los emprendedores, micro, peque&amp;ntilde;as y medianas empresas (miPymes) ante la exigencia de adaptarse a ello para ser competitivas. &lt;strong&gt;Pero no todo son exigencias en esta vida&lt;&#x2F;strong&gt;, les aseguramos que la incorporaci&amp;oacute;n de nuevas tecnolog&amp;iacute;as a su forma de hacer negocios trae infinitos beneficios. Pero antes de seguir con esta nota le damos play a nuestro Spotify y arrancamos con la lista de relajaci&amp;oacute;n: Coffee Table Jazz, ideal para esta nublada (y hermosa) ma&amp;ntilde;ana.&lt;br &#x2F;&gt;&amp;nbsp;&lt;br &#x2F;&gt;Incorporar tecnolog&amp;iacute;as a nuestra forma de hacer negocios nos permitir&amp;aacute; ser: &lt;strong&gt;m&amp;aacute;s competitivos, m&amp;aacute;s eficientes y m&amp;aacute;s rentables.&lt;&#x2F;strong&gt; No hacerlo llevar&amp;aacute; a que indefectible y r&amp;aacute;pidamente perdamos mercado. Por ello, es necesario que nos planteemos qu&amp;eacute; nuevo hardware y software nos servir&amp;iacute;a, pero tambi&amp;eacute;n cosas m&amp;aacute;s sencillas como actualizar nuestra p&amp;aacute;gina Web y desarrollar acciones de marketing estrat&amp;eacute;gico en redes sociales (mucho hemos hablado de todo esto a lo largo del a&amp;ntilde;o).&lt;br &#x2F;&gt;&amp;nbsp;&lt;br &#x2F;&gt;Para definir qu&amp;eacute; acciones en este plan de incorporaci&amp;oacute;n tecnol&amp;oacute;gica debemos llevar a cabo, recomendamos un proceso de 3 pasos: &lt;br &#x2F;&gt;&amp;nbsp;&lt;br &#x2F;&gt;&lt;strong&gt;1 - Definici&amp;oacute;n de necesidades y objetivos&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;Implica identificar seg&amp;uacute;n nuestros objetivos empresariales, qu&amp;eacute; necesitamos y para qu&amp;eacute; lo necesitamos. Por ejemplo: un tel&amp;eacute;fono celular destinado s&amp;oacute;lo a responder whatsapp y gestionar las redes del negocio. Una vez que tengamos nuestro listado (por orden de prioridad), deberemos definir tambi&amp;eacute;n cu&amp;aacute;nta inversi&amp;oacute;n se puede afrontar.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;2 - Asesoramiento y gesti&amp;oacute;n del proyecto&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;Antes de decidir la tecnolog&amp;iacute;a a adquirir tenemos que interactuar concienzudamente con las empresas proveedoras sobre las necesidades que tenemos respecto del nuevo equipamiento (soft o hard) y ver de qu&amp;eacute; forma adecuarlo a nuestro presupuesto.&lt;br &#x2F;&gt;&lt;strong&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;3 - Implantaci&amp;oacute;n y formaci&amp;oacute;n del personal&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;Esta etapa resulta un poco m&amp;aacute;s complicada ya que implantaci&amp;oacute;n y formaci&amp;oacute;n deben darse simult&amp;aacute;neamente. Pero si no lo hacemos, no podremos explotar verdaderamente todo el potencial de la inversi&amp;oacute;n que realizamos.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Y con esto, antes de despedirnos, les contamos dos novedades:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I- Ya est&amp;aacute; a la venta nuestro libro: &lt;strong&gt;Marketing para emprendedores y miPymes&lt;&#x2F;strong&gt;, que seguramente les ser&amp;aacute; de mucha utilidad.&lt;&#x2F;p&gt;
+&lt;p&gt;II- Desde este jueves pr&amp;oacute;ximo y hasta el martes 05&#x2F;03&#x2F;19, la columna estar&amp;aacute; de vacaciones y por este motivo empezamos a despedirnos... y as&amp;iacute; les deseamos excelentes fiestas, maravilloso inicio de a&amp;ntilde;o. Nos volveremos a encontrar a principios de marzo.&lt;br &#x2F;&gt;&amp;nbsp;&lt;br &#x2F;&gt;Si conocer m&amp;aacute;s respecto de lo publicado en esta nota, pueden escribirnos a &lt;a href&#x3D;&quot;mailto:abcdelmarketing@elsol.com.ar&quot; target&#x3D;&quot;_blank&quot; rel&#x3D;&quot;noopener noreferrer&quot;&gt;abcdelmarketing@elsol.com.ar&lt;&#x2F;a&gt;&amp;nbsp;o por whatsapp al +549 261 6224000. Ahora s&amp;iacute; nos vamos dese&amp;aacute;ndoles un muy feliz martes!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Mgter. Paz Rego&lt;&#x2F;strong&gt;&lt;br &#x2F;&gt;Gerente de Comunicaci&amp;oacute;n y Marketing&lt;br &#x2F;&gt;CraneandoT&lt;br &#x2F;&gt;Mendoza - Buenos Aires - Montevideo&lt;br &#x2F;&gt;(+54) 9 2616224000 Argentina&lt;br &#x2F;&gt;(+54) 261 &#x2F; 4899709 Argentina&lt;br &#x2F;&gt;(+59) 8 99090805 Uruguay &lt;br &#x2F;&gt;&lt;a href&#x3D;&quot;mailto:Paz.Rego@gmail.com&quot; target&#x3D;&quot;_blank&quot; rel&#x3D;&quot;noopener noreferrer&quot;&gt;Paz.Rego@gmail.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href&#x3D;&quot;mailto:paz.rego@craneandot.com&quot; target&#x3D;&quot;_blank&quot; rel&#x3D;&quot;noopener noreferrer&quot;&gt;paz.rego@craneandot.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href&#x3D;&quot;mailto:pr@craneandot.com&quot; target&#x3D;&quot;_blank&quot; rel&#x3D;&quot;noopener noreferrer&quot;&gt;pr@craneandot.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Skype: paz.rego1&lt;&#x2F;p&gt;",
+            "articleSection": "empresas",
+            "wordCount": "250",
+            "creator": {
+                "@type": "Person",
+                "givenName": "El Sol",
+                "name": "El Sol"
+            },
+            "datePublished": "2018-12-12T15:22:16+00:00",
+            "dateModified": "2018-12-12T15:22:16+00:00",
+            "headline": "¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?",
+            "keywords": "",
+            "text": "",
+            "description": "En la actualidad es casi imposible pensar en negocios sin incluir a las nuevas tecnologías.",
+            "thumbnailUrl": "https://elsol-compress.s3-accelerate.amazonaws.com/files/1544628006167Captura%20de%20pantalla%202018-12-12%20a%20la(s)%2012.19.35.jpg",
+            "dateline": "",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.elsol.com.ar/"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "ElSol.com.ar - Diario de Mendoza, Argentina - El Sol Online",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.elsol.com.ar/images/elsol-logo-amp.png",
+                    "width": 600,
+                    "height": 60
+                }
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+          if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+          }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/cuyotelevision-elsol/loader.js',
+        'tb_loader_script');
+        if(window.performance && typeof window.performance.mark == 'function')
+          {window.performance.mark('tbl_ic');}
+    </script>
+    <script language="JavaScript" type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function () {
+            var gads = document.createElement("script");
+            gads.async = true;
+            var useSSL = "https:" == document.location.protocol;
+            gads.src = (useSSL ? "https:" : "http:") +
+                "//www.googletagservices.com/tag/js/gpt.js";
+            var node = document.getElementsByTagName("script")[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+    
+    <script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8&appId=170185563535464";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-8259814-8', 'auto');
+        ga('send', 'pageview');
+        ga('send', {
+            'hitType': 'pageview',
+            title: '¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?',
+            location: 'https://www.elsol.com.ar' + '/cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme',
+            page: '/cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme'
+        });
+    </script>
+    <script language="JavaScript" type="text/javascript" src="/dfp/file.js?section=interna"></script>
+    <!-- eplanning header bidder -->
+    <script src="https://i.e-planning.net/layers/hbdfp.js" id="hbepl" async data-isv="us.img.e-planning.net" data-sv="ads.us.e-planning.net" data-ci="1b90e"></script>
+    <!-- Begin comScore Tag -->
+    <script>
+        var _comscore=_comscore||[];_comscore.push({ c1: "2", c2: "17676754" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();
+    </script>
+    <noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=17676754&cv=2.0&cj=1" /></noscript>
+    <!-- End comScore Tag -->
+</head>
+
+<body>
+
+<div id="fb-root"></div>
+
+<!-- Navbar --><div class="navbar" navbar><!-- Items --><div class="navbar__wrapper"><div class="container navbar__container"><div class="row"><!-- Menu --><div class="col navbar__component navbar__menu-icon-container"><a class="clickable" ng-click="ctrl.toggleMenu()" style="line-height: 0.6"><i ng-show="!ctrl.menuIsOpen" class="material-icons">menu</i> <i ng-show="ctrl.menuIsOpen" class="material-icons">close</i></a><div ng-if="ctrl.tagName" class="navbar__tag-name" ng-bind="ctrl.tagName"></div></div><!-- end Menu --><!-- Logo --><div class="col navbar__component navbar__logo-container"><a href="/"><img src="/images/logo--white.png" alt=""></a></div><!-- end Logo --><!-- Weather info --><div class="col navbar__component navbar__weather-container"><div weather-widget temperature="'28.4'" status="'Parcialmente nublado'" icon="'pe-7w-cloud-sun'"></div></div><!-- end Weather info --></div></div></div><!-- end Items --><!-- Slide menu --><div class="navbar__slide-menu slide-menu" ng-class="{'navbar__slide-menu--is-open': ctrl.menuIsOpen}"><div class="container slide-menu__container"><!-- Links --><div class="row"><div class="col-md-3 col-sm-12"><h4 class="menu-text menu-text--title">Secciones</h4><menu zone="secciones"></menu></div><div class="col-md-3 col-sm-12"><h4 class="menu-text menu-text--title">De Revista</h4><menu zone="De Revista"></menu></div><div class="col-md-3 col-sm-12"><h4 class="menu-text menu-text--title">Clasificados</h4><menu zone="Clasificados"></menu><h4 class="menu-text menu-text--title padding-top-half">Redes</h4><menu zone="Redes"></menu></div><div class="col-md-3 col-sm-12"><h4 class="menu-text menu-text--title">Servicios Online</h4><menu zone="Servicios Online"></menu></div></div><!-- end Links --><!-- Form --><div class="row margin-top-full" ng-controller="SearchCtrl"><div class="col navbar__form"><h4 class="menu-text menu-text--title padding-bottom-half">Buscador de contenidos</h4><div class="flex-wrapper flex-wrapper--align-center width-full"><div class="form-group width-full margin-bottom-none"><input type="text" class="form-control navbar__form-input" ng-model="searchText" placeholder="¿Qué estas buscando?" ng-enter="initSearch(searchText)"></div><a class="btn navbar__form-button" ng-href="https:&#x2F;&#x2F;www.elsol.com.ar/page/search?search=" ng-enter="initSearch(searchText)"><i class="material-icons font-color-white-darken-5">search</i></a></div></div></div><!-- end Form --></div></div><!-- end Slide menu --></div><!-- end Navbar -->
+
+
+<div class="global-widget ">
+    <div class="global-block-widget ">
+        <div class="gobal-news" style="
+    background-color: #c62028;">
+    <a  style="color: #ffffff;" href="/page/static/coronavirus">Coronavirus: mapa interactivo minuto a minuto</a>
+</div>
+    </div>
+</div>
+<!-- Note view -->
+<div class="note-container">
+
+    <!-- Note -->
+    <div class="note">
+
+        <!-- Top banner -->
+        <div class="container">
+            <div class="banner-container banner-container--horizontal container">
+
+                <!-- Banner -->
+                <banner banner="NOTA_FULL_TOP" class="banner banner--size-1200-300"></banner>
+                <!-- end Banner -->
+
+            </div>
+        </div>
+        <!-- end Top banner -->
+
+        <!-- Note body and sidenav -->
+        <div class="container">
+
+            <!-- Title & Epigraph -->
+            <div class="note__title-container">
+
+                <div>
+
+                    <!-- Pre title -->
+                    <div class="note__pre-title">
+
+                        <!-- Time -->
+                        <div class="note__pre-title-component note__time">
+                            <i class="material-icons margin-right-eighth">access_time</i>
+                            12:22
+                        </div>
+                        <!-- end Time -->
+
+                        <div class="note__pre-title-component note__pre-title-component--hide-responsive">
+                            |
+                        </div>
+
+                        <!-- Date -->
+                        <div class="note__pre-title-component note__date">
+                            12 de diciembre de 2018
+                        </div>
+                        <!-- end Date -->
+
+                        <div class="note__pre-title-component note__pre-title-component--hide-responsive">
+                            |
+                        </div>
+
+                        <!-- Date -->
+                        <div class="note__pre-title-component note__date">
+                            <a href="https://elsol.com.ar/tags&#x2F;empresas">empresas</a>
+                        </div>
+                        <!-- end Date -->
+
+                        <div class="note__pre-title-component note__pre-title-component--hide-responsive">
+                            |
+                        </div>
+
+                        <!-- Kicker -->
+                        <h3 class="note__pre-title-component note__kicker">
+                            Marketing
+                        </h3>
+                        <!-- end Kicker -->
+
+                    </div>
+                    <!-- end Pre title -->
+
+                    <!-- Title -->
+                    <h1 class="note__title">
+                        ¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?
+                    </h1>
+                    <!-- end Title -->
+
+                </div>
+
+            </div>
+            <!-- end Title & Epigraph -->
+
+            <!-- Main media -->
+            <div class="note__main-media">
+
+                <!-- If hideGallery is false, show gallery -->
+
+                <!-- If hideGallery, show main image -->
+
+                <!-- If hideGallery is false, and we do not have a gallery, show main image -->
+                <div class="media-container">
+                    <div class="media media--type-image">
+                        <img src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1544628006167Captura%20de%20pantalla%202018-12-12%20a%20la(s)%2012.19.35.jpg" alt="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1544628006167Captura%20de%20pantalla%202018-12-12%20a%20la(s)%2012.19.35.jpg">
+                    </div>
+                </div>
+
+            </div>
+            <!-- end Main media -->
+
+            <!-- Note body & sidenav -->
+            <div class="note__inner-container">
+
+                <!-- Body -->
+                <div class="note-content__container">
+
+                    <div class="note__full-container">
+
+                        <!-- Epigraph -->
+                        <h2 class="note__epigraph">
+                            En la actualidad es casi imposible pensar en negocios sin incluir a las nuevas tecnologías.
+                        </h2>
+                        <!-- end Epigraph -->
+
+                        <!-- Content header -->
+                        <div class="note__rating note__spaced-container">
+
+                            <div class="note__rating__container">
+
+                                <div class="valign-wrapper">
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <!-- end Content header -->
+
+                        <!-- WYSIWYG content HERE! -->
+                        <div id="note-content" class="note__content">
+
+                            <div class="note__author-info">
+
+                                <div class="note__author-title">
+                                        <span class="font-weight-light">
+                                            Por:
+                                        </span>
+                                    <a href="">
+                                        El Sol
+                                    </a>
+                                    <a href="" class="display-block">
+                                        contacto@elsol.com.ar
+                                    </a>
+                                    <a href="" class="display-block">
+                                        
+                                    </a>
+                                </div>
+
+                            </div>
+
+                            <p>El mundo ha cambiado rotundamente en los &uacute;ltimos 10 a&ntilde;os y con ello, nuestra forma de vivir. Desde el GPS incorporado a los autom&oacute;viles, aplicaciones en nuestros celulares que permiten desde controlar qu&eacute; est&aacute; haciendo la ni&ntilde;era, pagar los impuestos o imprimirte una credencial provisoria de tu prepaga. Hasta, ortodoncia invisible (e indolora), sin l&iacute;mite de edad mediante impresoras 3D.<br />&nbsp;<br />Todo ello coloca a los emprendedores, micro, peque&ntilde;as y medianas empresas (miPymes) ante la exigencia de adaptarse a ello para ser competitivas. <strong>Pero no todo son exigencias en esta vida</strong>, les aseguramos que la incorporaci&oacute;n de nuevas tecnolog&iacute;as a su forma de hacer negocios trae infinitos beneficios. Pero antes de seguir con esta nota le damos play a nuestro Spotify y arrancamos con la lista de relajaci&oacute;n: Coffee Table Jazz, ideal para esta nublada (y hermosa) ma&ntilde;ana.<br />&nbsp;<br />Incorporar tecnolog&iacute;as a nuestra forma de hacer negocios nos permitir&aacute; ser: <strong>m&aacute;s competitivos, m&aacute;s eficientes y m&aacute;s rentables.</strong> No hacerlo llevar&aacute; a que indefectible y r&aacute;pidamente perdamos mercado. Por ello, es necesario que nos planteemos qu&eacute; nuevo hardware y software nos servir&iacute;a, pero tambi&eacute;n cosas m&aacute;s sencillas como actualizar nuestra p&aacute;gina Web y desarrollar acciones de marketing estrat&eacute;gico en redes sociales (mucho hemos hablado de todo esto a lo largo del a&ntilde;o).<br />&nbsp;<br />Para definir qu&eacute; acciones en este plan de incorporaci&oacute;n tecnol&oacute;gica debemos llevar a cabo, recomendamos un proceso de 3 pasos: <br />&nbsp;<br /><strong>1 - Definici&oacute;n de necesidades y objetivos</strong><br />Implica identificar seg&uacute;n nuestros objetivos empresariales, qu&eacute; necesitamos y para qu&eacute; lo necesitamos. Por ejemplo: un tel&eacute;fono celular destinado s&oacute;lo a responder whatsapp y gestionar las redes del negocio. Una vez que tengamos nuestro listado (por orden de prioridad), deberemos definir tambi&eacute;n cu&aacute;nta inversi&oacute;n se puede afrontar.</p>
+<p><strong>2 - Asesoramiento y gesti&oacute;n del proyecto</strong><br />Antes de decidir la tecnolog&iacute;a a adquirir tenemos que interactuar concienzudamente con las empresas proveedoras sobre las necesidades que tenemos respecto del nuevo equipamiento (soft o hard) y ver de qu&eacute; forma adecuarlo a nuestro presupuesto.<br /><strong></strong></p>
+<p><strong>3 - Implantaci&oacute;n y formaci&oacute;n del personal</strong><br />Esta etapa resulta un poco m&aacute;s complicada ya que implantaci&oacute;n y formaci&oacute;n deben darse simult&aacute;neamente. Pero si no lo hacemos, no podremos explotar verdaderamente todo el potencial de la inversi&oacute;n que realizamos.</p>
+<p><strong>Y con esto, antes de despedirnos, les contamos dos novedades:</strong></p>
+<p>I- Ya est&aacute; a la venta nuestro libro: <strong>Marketing para emprendedores y miPymes</strong>, que seguramente les ser&aacute; de mucha utilidad.</p>
+<p>II- Desde este jueves pr&oacute;ximo y hasta el martes 05/03/19, la columna estar&aacute; de vacaciones y por este motivo empezamos a despedirnos... y as&iacute; les deseamos excelentes fiestas, maravilloso inicio de a&ntilde;o. Nos volveremos a encontrar a principios de marzo.<br />&nbsp;<br />Si conocer m&aacute;s respecto de lo publicado en esta nota, pueden escribirnos a <a href="mailto:abcdelmarketing@elsol.com.ar" target="_blank" rel="noopener noreferrer">abcdelmarketing@elsol.com.ar</a>&nbsp;o por whatsapp al +549 261 6224000. Ahora s&iacute; nos vamos dese&aacute;ndoles un muy feliz martes!</p>
+<p></p>
+<p><strong>Mgter. Paz Rego</strong><br />Gerente de Comunicaci&oacute;n y Marketing<br />CraneandoT<br />Mendoza - Buenos Aires - Montevideo<br />(+54) 9 2616224000 Argentina<br />(+54) 261 / 4899709 Argentina<br />(+59) 8 99090805 Uruguay <br /><a href="mailto:Paz.Rego@gmail.com" target="_blank" rel="noopener noreferrer">Paz.Rego@gmail.com</a></p>
+<p><a href="mailto:paz.rego@craneandot.com" target="_blank" rel="noopener noreferrer">paz.rego@craneandot.com</a></p>
+<p><a href="mailto:pr@craneandot.com" target="_blank" rel="noopener noreferrer">pr@craneandot.com</a></p>
+<p>Skype: paz.rego1</p>
+
+                            <!-- Clearfix -->
+                            <div class="clearfix"></div>
+                            <!-- end Clearfix -->
+
+                            <!-- end Note source -->
+
+                            <!-- Clearfix -->
+                            <div class="clearfix"></div>
+                            <!-- end Clearfix -->
+
+                            <!-- Tags -->
+                            <div class="note__tags">
+                                <p style="margin-top: 60px;"> TEMAS: </p>
+                                <a href="https://elsol.com.ar/tags&#x2F;empresas" class="tag is-active" style="font-weight: 100;">
+                                    empresas
+                                </a>
+                            </div>
+                            <!-- end Tags -->
+
+                        </div>
+                        <!-- end WYSIWYG content HERE! -->
+
+                        <!-- Clearfix -->
+                        <div class="clearfix"></div>
+                        <!-- end Clearfix -->
+                        <div style="margin-top: 90px">
+                            <p style="font-weight: bold;">MAS NOTICIAS: </p>
+                            <div>
+                                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-5087581082458712" data-ad-slot="1610954553"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({});</script>
+                            </div>    
+                        </div>
+                        <div style="margin-top: 40px">
+                            <p style="font-weight: bold;" >SEGUÍ LEYENDO: </p>
+                            <div id="taboola-below-article-thumbnails"></div>
+                                <script type="text/javascript">
+                                window._taboola = window._taboola || [];
+                                _taboola.push({
+                                    mode: 'alternating-thumbnails-a',
+                                    container: 'taboola-below-article-thumbnails',
+                                    placement: 'Below Article Thumbnails',
+                                    target_type: 'mix'
+                                });
+                                </script>
+                        </div>
+
+                        <!-- Clearfix -->
+                        <div class="clearfix"></div>
+                        <!-- end Clearfix -->
+                    </div>
+
+                </div>
+                <!-- end Body -->
+
+                <!-- Sidenav -->
+                <div class="note-sidenav__container">
+
+                    <div class="note__sidenav">
+
+                        <!-- Static -->
+                        <div class="note__sidenav-component">
+
+                            <div class="share-count">
+
+                                <div class="share-count__icons">
+
+                                    <div class="social-icon__wrapper">
+
+                                        <i share red="facebook" url="https://www.elsol.com.ar&#x2F;cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme"
+                                           title="¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?"
+                                           class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i>
+
+                                        <i share red="twitter" url="https://www.elsol.com.ar&#x2F;cuanto-influyen-las-nuevas-tecnologias-a-emprendedores-y-mipyme"
+                                           title="¿Cuánto influyen las nuevas tecnologías a emprendedores y MiPyme?"
+                                           class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="note__sidenav-component">
+                            <div class="banner banner--size-300-250 banner--placeholder">
+                                <banner banner="NOTA_LATERAL_1"
+                                        class="banner banner--size-300-250 banner--height-auto"></banner>
+                            </div>
+                        </div>
+
+                        <div class="note__sidenav-component">
+                            <div class="banner banner--size-300-250 banner--placeholder">
+                                <banner banner="NOTA_LATERAL_2"
+                                        class="banner banner--size-300-250 banner--height-auto"></banner>
+
+                            </div>
+                        </div>
+                        <!-- end Static -->
+
+                        <!-- Sticky -->
+                        <div class="note__sidenav-component note__sidenav-component--sticky">
+
+                            <div class="margin-bottom-full">
+
+                            </div>
+
+                            <div class="margin-bottom-full">
+                                <div class="banner banner--size-300-600 banner--placeholder">
+                                    <banner banner="NOTA_LATERAL_DOBLE_1"
+                                            class="banner banner--size-300-600 banner--height-auto"></banner>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- end Sticky -->
+
+                    </div>
+
+                </div>
+                <!-- end Sidenav -->
+
+            </div>
+            <!-- end Note body & sidenav -->
+
+                <!-- Banner -->
+                <div class="padding-vertical-full">
+                    <banner banner="1x1_NOTES" class="banner banner--size-970-250"></banner>
+                </div>
+                <!-- end Banner -->
+
+            <!-- Top banner -->
+            <div class="banner-container banner-container--horizontal container">
+
+                <!-- Banner -->
+                <banner banner="NOTA_FULL_MIDDLE"
+                        class="banner banner--size-1200-300 bg-color-black padding-half"></banner>
+                <!-- end Banner -->
+
+            </div>
+            <!-- end Top banner -->
+
+            <!-- Latest news -->
+            <div class="note__spaced-container padding-bottom-double" id="latest-notes">
+
+                <!-- Related notes title -->
+                <div class="padding-top-full">
+                    <h2 class="title-main">
+                        <div class="title-main__text">
+                            Últimas noticias
+                        </div>
+                    </h2>
+                </div>
+                <!-- end Related notes title -->
+
+                <div class="row">
+
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;banco-macro-recibio-el-premio-a-la-excelencia-operativa"><!-- Kicker --><div class="note-card__kicker"></div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">Banco Macro recibió el premio a la excelencia operativa</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1544482543854Captura%20de%20pantalla%202018-12-10%20a%20la(s)%2019.55.23.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1544482543854Captura%20de%20pantalla%202018-12-10%20a%20la(s)%2019.55.23.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;banco-macro-recibio-el-premio-a-la-excelencia-operativa" title="Banco Macro recibió el premio a la excelencia operativa" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;banco-macro-recibio-el-premio-a-la-excelencia-operativa" title="Banco Macro recibió el premio a la excelencia operativa" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">empresas</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;la-estrategia-de-marketing-durante-el-verano"><!-- Kicker --><div class="note-card__kicker"></div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">La estrategia de marketing durante el verano</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1544129111265Captura%20de%20pantalla%202018-12-06%20a%20la(s)%2017.44.47.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1544129111265Captura%20de%20pantalla%202018-12-06%20a%20la(s)%2017.44.47.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;la-estrategia-de-marketing-durante-el-verano" title="La estrategia de marketing durante el verano" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;la-estrategia-de-marketing-durante-el-verano" title="La estrategia de marketing durante el verano" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">empresas</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;vivis-en-mendoza-y-queres-emprender-prestale-atencion-a-esta-nota"><!-- Kicker --><div class="note-card__kicker"></div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">Vivís en Mendoza y querés emprender, préstale atención a esta nota</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1543956990960Captura%20de%20pantalla%202018-12-04%20a%20la(s)%2017.56.07.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1543956990960Captura%20de%20pantalla%202018-12-04%20a%20la(s)%2017.56.07.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;vivis-en-mendoza-y-queres-emprender-prestale-atencion-a-esta-nota" title="Vivís en Mendoza y querés emprender, préstale atención a esta nota" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;vivis-en-mendoza-y-queres-emprender-prestale-atencion-a-esta-nota" title="Vivís en Mendoza y querés emprender, préstale atención a esta nota" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">empresas</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;la-segunda-edicion-de-la-expo-motor-llega-recargada"><!-- Kicker --><div class="note-card__kicker"></div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">La segunda edición de la Expo Motor llega recargada</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1543860996559Captura%20de%20pantalla%202018-12-03%20a%20la(s)%2015.16.06.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1543860996559Captura%20de%20pantalla%202018-12-03%20a%20la(s)%2015.16.06.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;la-segunda-edicion-de-la-expo-motor-llega-recargada" title="La segunda edición de la Expo Motor llega recargada" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;la-segunda-edicion-de-la-expo-motor-llega-recargada" title="La segunda edición de la Expo Motor llega recargada" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">empresas</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- end Latest news -->
+
+            <!-- Top banner -->
+            <div class="banner-container banner-container--horizontal container">
+
+                <!-- Banner -->
+                <banner banner="NOTA_FULL_PIE"
+                        class="banner banner--size-1200-300 bg-color-black padding-half"></banner>
+                <!-- end Banner -->
+
+            </div>
+            <!-- end Top banner -->
+
+            <!-- Related notes -->
+            <div class="note__spaced-container padding-bottom-double" id="related-notes">
+
+                <!-- Related notes title -->
+                <div class="padding-top-full">
+                    <h2 class="title-main">
+                        <div class="title-main__text">
+                            También te pueden interesar
+                        </div>
+                    </h2>
+                </div>
+                <!-- end Related notes title -->
+
+                <div class="row">
+
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;argentino-en-el-crucero-con-coronavirus-tenemos-mucho-miedo"><!-- Kicker --><div class="note-card__kicker">Testimonio</div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">El relato de un argentino en el barco: “Tenemos mucho miedo”</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1585342176301crucero.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1585342176301crucero.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;argentino-en-el-crucero-con-coronavirus-tenemos-mucho-miedo" title="El relato de un argentino en el barco: “Tenemos mucho miedo”" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;argentino-en-el-crucero-con-coronavirus-tenemos-mucho-miedo" title="El relato de un argentino en el barco: “Tenemos mucho miedo”" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">el pais</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;coronavirus-el-gobierno-se-prepara-para-hacer-medio-millon-de-test"><!-- Kicker --><div class="note-card__kicker">Avance de la pandemia</div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">Coronavirus: el gobierno se prepara para hacer medio millón de test</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1583845023264f314257fea1346c95dbd3f32df711c613d05d5a5w.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1583845023264f314257fea1346c95dbd3f32df711c613d05d5a5w.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;coronavirus-el-gobierno-se-prepara-para-hacer-medio-millon-de-test" title="Coronavirus: el gobierno se prepara para hacer medio millón de test" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;coronavirus-el-gobierno-se-prepara-para-hacer-medio-millon-de-test" title="Coronavirus: el gobierno se prepara para hacer medio millón de test" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">el pais</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+                    <div class="col">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+<!-- Note card --><div class="note-card note"> <a href="https://www.elsol.com.ar&#x2F;quien-es-juan-gimenez-el-afamado-historietista-que-tiene-covid19"><!-- Kicker --><div class="note-card__kicker">Coronavirus</div><!-- end Kicker --><!-- Title --><h2 class="note-card__title" style="color: ">Quién es Juan Giménez, el afamado historietista que tiene COVID-19</h2><!-- end Title --><!-- Image --><div class="note-card__image-wrapper"><div class="note-card__image-container"><!-- Image object --><div style="background-image: url('https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1585343376598Juan%20Gimenez.jpg')" class="note-card__image-cover"></div><img class="note-card__image" style="top: %" src="https:&#x2F;&#x2F;elsol-compress-release.s3-accelerate.amazonaws.com&#x2F;images&#x2F;large&#x2F;1585343376598Juan%20Gimenez.jpg"><!-- end Image object --><!-- Shadow --><div class="note-card__image-shadow"></div><!-- end Shadow --><!-- Social icons --><div class="note-card__social-icons"><div class="social-icon__wrapper"><i share red="facebook" url="https://www.elsol.com.ar&#x2F;quien-es-juan-gimenez-el-afamado-historietista-que-tiene-covid19" title="Quién es Juan Giménez, el afamado historietista que tiene COVID-19" class="ion-social-facebook social-icon social-icon--facebook font-size-xl margin-bottom-quarter"></i> <i share red="twitter" url="https://www.elsol.com.ar&#x2F;quien-es-juan-gimenez-el-afamado-historietista-que-tiene-covid19" title="Quién es Juan Giménez, el afamado historietista que tiene COVID-19" class="ion-social-twitter social-icon social-icon--twitter font-size-xl margin-bottom-quarter"></i></div></div><!-- end Social icons --></div><!-- Pretitle --><div class="note-card__pre-title" style="background-color: ">Provincia</div><!-- end Pretitle --><!-- Ranking number --><div class="note-card__ranking"></div><!-- end Ranking number --></div><!-- end Image --> </a> </div><!-- end Note card -->                        </div>
+                        <!-- end Note card -->
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- end Related notes -->
+
+            <!-- Interesting news -->
+            <div class="note__spaced-container padding-bottom-double" ng-controller="NoteCtrl">
+
+                <div class="row">
+                    <div class="col" ng-repeat="angNote in interesting">
+                        <!-- Note card -->
+                        <div class="note-card-container note-card--inset-shadow">
+                            <ng-include src="'/modules/note-card/angular-note-card.html'"></ng-include>
+                        </div>
+                        <!-- end Note card -->
+                    </div>
+                </div>
+
+            </div>
+            <!-- end Interesting news -->
+
+        </div>
+
+    </div>
+    <!-- end Note -->
+
+</div>
+<!-- end Note view -->
+
+<script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/7230/tag"></script>
+
+<!-- Generic footer -->
+<div class="container">
+
+    <!-- Other links -->
+    <div class="container container--no-horizontal-padding">
+
+        <div class="footer-menu padding-vertical-half flex-wrapper flex-wrapper--align-center flex-wrapper--justify-center"
+             ng-class="{'flex-wrapper--direction-column': screenWidth === 's'}">
+
+            <menu zone="Footer"></menu>
+
+        </div>
+
+    </div>
+    <!-- end Other links -->
+
+    <!-- Social icons -->
+    <div class="container container--no-horizontal-padding container--border-top">
+
+        <div class="padding-vertical-half flex-wrapper flex-wrapper--align-center flex-wrapper--justify-center">
+
+            <a class="padding-horizontal-half" target="_blank" href="https://www.facebook.com/elsolonline">
+                <i class="fa fa-facebook material-icons font-size-xxl--1 font-color-white-darken-4"
+                   aria-hidden="true"></i>
+            </a>
+            <a class="padding-horizontal-half" target="_blank" href="https://twitter.com/@elsolonline">
+                <i class="fa fa-twitter material-icons font-size-xxl--1 font-color-white-darken-4"
+                   aria-hidden="true"></i>
+            </a>
+            <a class="padding-horizontal-half" target="_blank" href="https://plus.google.com/+elsolonline">
+                <i class="fa fa-google-plus material-icons font-size-xxl--1 font-color-white-darken-4"
+                   aria-hidden="true"></i>
+            </a>
+            <a class="padding-horizontal-half" target="_blank" href="https://www.youtube.com/elsolonline">
+                <i class="fa fa-youtube material-icons font-size-xxl--1 font-color-white-darken-4"
+                   aria-hidden="true"></i>
+            </a>
+
+        </div>
+
+    </div>
+    <!-- end Social icons -->
+
+    <!-- Copyright -->
+    <div class="text-center padding-vertical-full font-color-black-lighten-6 font-size-l font-weight-light">
+        © 2019 Copyright.
+    </div>
+
+</div>
+<!-- end Generic footer -->
+
+<script src="/lib/lib-e5f32d1d54.js"></script>
+
+<!-- fontAwesome icons -->
+<script src="https://use.fontawesome.com/0a13a041e0.js"></script>
+
+<script src="/js/app-501b16781a.js"></script>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+
+</body>
+</html>
